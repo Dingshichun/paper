@@ -1,0 +1,5 @@
+torch version:  2.3.0
+torchvision version:  0.18.0
+numpy version:  1.24.3
+matplotlib version:  3.8.4
+tqdm version:  4.66.5
